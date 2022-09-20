@@ -42,22 +42,39 @@ Follow these links and read through the advice given, then
 <br>
 **3. (1 point) Take a screenshot (or take a picture with your phone). Make sure to place the image in the same folder as your Rmarkdown file  and include it in your (R)markdown file.**
 
-|          ![alt text](StackOverFlowScreenShot.png "StackOverFlow Question")
+|          ![alt text](StackOverFlowScreenShot.png "StackOverFlow Question"){width=60%}
 
 <br>
 **4. (3 points) Relate the readings to how the question is phrased: for that, write a paragraph on what a good question should do and then state what the stackoverflow question does. Identify at least three shortcomings.**
 
-|          
+|          **A Good Question:**
+|          A good stackoverflow question should summarize the problem at hand using correct grammar. The problem should be introduced before the code is. The code included should  be minimal and just enough should be included so that the error is reproducible. The error should also be specified
+
+
+<br>
+
+|          **What the Stackoverflow Question Does:**
+|          The stackoverflow question gives no insight into the problem they are running into. 
+|          The example question does introduce the issue before the code.
+|          The way the code and the question are written add confusion. Partly because the code was poorly formmatted. 
+|          A question that arises is "Is the commision for sales >$1000 supposed to be 3% or 2.8%?"
+|          The error was not reproducible. When I ran the code, I did not run into the error. 
 
 <br>
 **5. (3 points) Re-phrase the question to make it better. You can use placeholders for information that is not given in the original question, e.g. "version" or "platform".**
 
-|          A better way to ask the question is "How can I get a JS array to appear in HTML text box?"
+|          A better way to ask the question is to include the name of the error they were running into in the questions. 
+|          They did not specify what error they were running into anywhere in their post, so I will supplement it with a random error. 
+|          **For example:** "Why is there a *Complie Error* with some inputs but not others?"
+|           I would describe the intention of the code similarly, but include a screenshot or description of the actual error.
+|          Here is how I rewrote the code and a screenshot that shows how I did not run into an error. 
+|          ![alt text](StackOverFlowScreenShot.png "StackOverFlow Question"){width=60%}
  
 <br>
 
 **Note:** (2 points) make sure that your submission is fully reproducible, i.e. the TA and I will 'knit' your submission in RStudio. Including any links to files is the tricky part here. Make sure that you don't use any file structure that depends on your computing environment.
 
+<br>
 
 For the submission: submit a zipped file  solution in an R Markdown file and (just for insurance) submit the corresponding html (or Word) file with it. 
 
