@@ -32,7 +32,7 @@ Follow these links and read through the advice given, then
 |           **Issues: **
 |           **a.** The question is not put in a question format. 
 |           **b.** The question offers no specifics on the issue.
-|           **c.** The formatting of the code makes makes it harder to read 
+|           **c.** The formatting of the code makes makes it hard to read 
 <br>
 
 **2. (1 point) Which question did you pick (link to it).**  
@@ -48,8 +48,7 @@ Follow these links and read through the advice given, then
 **4. (3 points) Relate the readings to how the question is phrased: for that, write a paragraph on what a good question should do and then state what the stackoverflow question does. Identify at least three shortcomings.**
 
 |          **A Good Question:**
-|          A good stackoverflow question should summarize the problem at hand using correct grammar. The problem should be introduced before the code is. The code included should  be minimal and just enough should be included so that the error is reproducible. The error should also be specified
-
+|          A good stackoverflow question should summarize the problem at hand using correct grammar. The problem should be introduced before the code is. The code included should  be minimal. Just enough code should be included so that the error is reproducible. The error should also be specified. The question should also include relevant tags. 
 
 <br>
 
@@ -65,10 +64,17 @@ Follow these links and read through the advice given, then
 
 |          A better way to ask the question is to include the name of the error they were running into in the questions. 
 |          They did not specify what error they were running into anywhere in their post, so I will supplement it with a random error. 
-|          **For example:** "Why is there a *Complie Error* with some inputs but not others?"
-|           I would describe the intention of the code similarly, but include a screenshot or description of the actual error.
-|          Here is how I rewrote the code and a screenshot that shows how I did not run into an error. 
-|          ![alt text](StackOverFlowScreenShot.png "StackOverFlow Question"){width=60%}
+<br>
+
+|          **For example:** "Why does the input '8500   150' yeild a *Complie Error* when other inputs don't"
+|          I would describe the intention of the code similarly, but edit it a little more for some clarification and grammar
+|          I would also include a screenshot or a description of the actual error.
+|          Here is a screenshot of how I formatted the code to make it more legible. It also that shows that I did not run into any errors: 
+
+<br>
+
+|          **Code:**
+|             ![alt text](ReWrittenCode.png  "Code"){width=60%}
  
 <br>
 
