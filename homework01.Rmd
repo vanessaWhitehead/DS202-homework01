@@ -42,7 +42,7 @@ Follow these links and read through the advice given, then
 <br>
 **3. (1 point) Take a screenshot (or take a picture with your phone). Make sure to place the image in the same folder as your Rmarkdown file  and include it in your (R)markdown file.**
 
-|          
+|          ![alt text](StackOverFlowScreenShot.png "StackOverFlow Question")
 
 <br>
 **4. (3 points) Relate the readings to how the question is phrased: for that, write a paragraph on what a good question should do and then state what the stackoverflow question does. Identify at least three shortcomings.**
